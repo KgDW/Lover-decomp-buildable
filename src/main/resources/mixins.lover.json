@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.blackhig.zhebushigudu.lover.mixin.mixins",
+  "refmap": "mixins.lover.refmap.json",
+  "mixins": [
+    "AccessorGuiShulkerBox",
+    "AccessorminingPlayerEntId",
+    "IEntityLivingBase",
+    "MixinBlockLiquid",
+    "MixinEntity",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityPlayerSPTwo",
+    "MixinEntityRenderer",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinLayerBipedArmor",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinMovementInputFromOptions",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderGlobal",
+    "MixinRenderLivingBase",
+    "MixinRenderPlayer",
+    "MixinWorld"
+  ]
+}
